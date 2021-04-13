@@ -16,3 +16,4 @@
 	  3.在addCmd中的run属性中挂载上述方法
 	  4.输入go build -o demo
 	  5.输入./demo add 10 20
+      
